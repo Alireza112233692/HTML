@@ -54,4 +54,6 @@ print(person["computer"]["cpu"])
 print(person["monitor"]["brand"])
 
 
-pirint(89)
+alir = ("reza")
+
+print(alir)
