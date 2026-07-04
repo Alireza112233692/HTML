@@ -20,8 +20,12 @@ print(type(dostan[1:4]))'''
 # hala mikhaym yad begirim item ezafe konim ya hazf konim 
 dostan[2] = "amir"
 print(dostan)'''
+
 M = ("sepehr sepi sepo sega")
 print(M)
+we = ("agha sepehr galesh shhsavari")
+print(we)
+
 
 '''dostan[2:4] = ["amir" , "reza"]
 print(dostan)'''
